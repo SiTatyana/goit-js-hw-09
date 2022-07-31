@@ -17,4 +17,35 @@ img {
   max-width: 100%;
 }
 
+.timer {
+  display: flex;
+  margin-top: 20px;
+}
+
+.field {
+  margin-right: 20px;
+  height: 100px;
+  width: 70px;
+
+  
+}
+
+.value {
+  display: flex;
+  font-family: monospace;
+  font-size: 48px;
+  font-weight: 400;
+  justify-content: center;
+  color: thistle;
+}
+
+.label {
+  display: flex;
+  font-weight: 400;
+  font-family:monospace;
+  font-size: 14px;
+  justify-content: center;
+  color: teal;
+}
+
 
